@@ -1,9 +1,18 @@
-### Hi there 👋 I'm Wen
+### Hi there 👋 I'm Wendy Hernandez
 
 💻 **Chemical Engineer | Environmental Engineering Specialist | Data Analyst**  
-🌱 Passionate about sustainability, data-driven solutions & software development  
+🌱 Passionate about sustainability, data-driven solutions & software development 
+🌎 My goal is to transform data into insights that drive strategic decisions and innovation.  
+
+<img src="./assets/code-to-earth.gif" width="400"/>
 
 ---
+
+## 🌟 About Me
+📍 Based in Cali, Colombia.  
+🚀 Currently developing data analysis projects using **Python 🐍, SQL 💾, and visualization tools like Power BI & Tableau 📊**.  
+🌱 Always eager to learn new technologies and explore innovative ways to solve problems.  
+🔍 Actively seeking opportunities in **Data Analytics, Software Development, and Business Intelligence**.  
 
 ## 📊 GitHub Stats
 
