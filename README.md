@@ -4,8 +4,6 @@
 🌱 Passionate about sustainability, data-driven solutions & software development 
 🌎 My goal is to transform data into insights that drive strategic decisions and innovation.  
 
-<img src="./assets/code-to-earth.gif" width="400"/>
-
 ---
 
 ## 🌟 About Me
