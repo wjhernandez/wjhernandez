@@ -4,6 +4,8 @@
 🌱 Passionate about sustainability, data-driven solutions & software development 
 🌎 My goal is to transform data into insights that drive strategic decisions and innovation.  
 
+![Mi gif pro](./gif.gif)
+
 ---
 
 ## 🌟 About Me
